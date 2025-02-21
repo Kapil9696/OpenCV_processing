@@ -1,4 +1,3 @@
-S
 # Shape Detection Script
 
 This code processes an image to detect three types of shapes: dots, circles, and diamond shapes. It uses OpenCV for image processing.
